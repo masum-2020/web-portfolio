@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: goldenrod;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
